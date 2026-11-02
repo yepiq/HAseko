@@ -2,8 +2,8 @@
   "domain": "haseko",
   "name": "HAseko - Home Assistant Aseko Integration",
   "version": "0.1.4",
-  "documentation": "https://github.com/ngorchilov/haseko",
-  "issue_tracker": "https://github.com/ngorchilov/haseko/issues",
+  "documentation": "https://github.com/yepiq/HAseko",
+  "issue_tracker": "https://github.com/yepiq/HAseko/issues",
   "iot_class": "cloud_polling",
   "integration_type": "hub",
   "codeowners": [
